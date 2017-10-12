@@ -56,7 +56,7 @@ public class DetailActivity extends BaseActivity implements DetailView, View.OnC
         setTitle(product.getName());
 
         productNameTextView.setText(product.getName());
-        productPriceTextView.setText(product.getPrice());
+        productPriceTextView.setText("Цена: " + product.getPrice() + "р.");
         productDescriptionTextView.setText(product.getDescription());
 
         Glide.with(this).load(product.getImgUrl())
