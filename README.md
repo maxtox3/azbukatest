@@ -1,3 +1,3 @@
-Test app for "Азбука Вкуса"
+Test app
 
 author: Max Gusev

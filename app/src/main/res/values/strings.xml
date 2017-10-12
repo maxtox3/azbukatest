@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Azbuka_test</string>
+    <string name="empty_products_list">Пусто :(</string>
+    <string name="menu_cart">Корзина</string>
+    <string name="add_to_cart">В корзину</string>
+    <string name="options">Опции</string>
+    <string name="sort_by_price_up">цена вверх</string>
+    <string name="sort_by_price_down">цена вниз</string>
 </resources>
